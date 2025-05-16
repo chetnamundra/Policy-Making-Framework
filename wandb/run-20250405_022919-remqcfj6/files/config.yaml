@@ -1,0 +1,93 @@
+_wandb:
+    value:
+        cli_version: 0.19.8
+        m: []
+        python_version: 3.12.8
+        t:
+            "1":
+                - 1
+                - 55
+            "2":
+                - 1
+                - 55
+            "3":
+                - 2
+                - 13
+                - 16
+                - 23
+                - 35
+                - 55
+            "4": 3.12.8
+            "5": 0.19.8
+            "8":
+                - 5
+            "12": 0.19.8
+            "13": darwin-arm64
+action_space_lower_bound:
+    value:
+        - 0
+        - 0
+        - 0.01
+action_space_upper_bound:
+    value:
+        - 0.1
+        - 3
+        - 1
+algorithm:
+    value: PPO
+alpha:
+    value: 0.8
+consumptions_params:
+    value:
+        - 0.8
+        - 5
+episode_steps:
+    value: 1000
+exp_salaries_params:
+    value:
+        - 10
+        - 1
+inital_taxes_params:
+    value:
+        - 0.01
+        - 0.5
+        - 0.5
+learning_rate:
+    value: 0.0003
+n_envs:
+    value: 4
+num_states:
+    value: 9
+percentiles:
+    value:
+        - 1
+        - 10
+        - 25
+        - 50
+        - 75
+        - 90
+        - 95
+        - 99
+        - 99.9
+policy_type:
+    value: MlpPolicy
+pop_size:
+    value: 1000
+returns_params:
+    value:
+        - 0.04
+        - 0.2
+reward_type:
+    value: R3
+run_id_for_evaluation:
+    value: ""
+schedule:
+    value: exponential
+total_steps:
+    value: 1000000
+use_wandb:
+    value: true
+wealth_init_params:
+    value:
+        - 12
+        - 2

@@ -1,0 +1,47 @@
+{
+  "os": "macOS-15.3.2-arm64-arm-64bit",
+  "python": "CPython 3.12.8",
+  "startedAt": "2025-04-04T20:59:57.933776Z",
+  "args": [
+    "-f",
+    "config.json"
+  ],
+  "program": "/Volumes/workplace 1/try_capstone/GovTaxOptimal_RL/main.py",
+  "codePath": "main.py",
+  "git": {
+    "remote": "https://github.com/valinsogna/GovTaxOptimal_RL.git",
+    "commit": "f2b2cf92338d1f4b6bfa1c40f60b678e47e78b2e"
+  },
+  "email": "chetna.ai21@bmsce.ac.in",
+  "root": "/Volumes/workplace 1/try_capstone/GovTaxOptimal_RL",
+  "host": "7cf34de10e5f",
+  "executable": "/Users/cmundra/.local/share/mise/installs/python/3.12.8/bin/python",
+  "codePathLocal": "main.py",
+  "cpu_count": 12,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "162438414336"
+    },
+    "/System/Volumes/Data": {
+      "total": "494384795648",
+      "used": "162438414336"
+    }
+  },
+  "memory": {
+    "total": "38654705664"
+  },
+  "cpu": {
+    "count": 12,
+    "countLogical": 12
+  },
+  "apple": {
+    "name": "Apple M3 Pro",
+    "ecpuCores": 6,
+    "pcpuCores": 6,
+    "gpuCores": 18,
+    "memoryGb": 36,
+    "ramTotalBytes": "38654705664"
+  }
+}

@@ -1,0 +1,82 @@
+Statistics averages of simulation for the Taxation Environment alpha=0.8, reward_type=RewardType.R1
+Average Gini index: 0.990475
+Average Reward: -0.667079
+Average Avg Tax Rate: 0.015455
+Average Total Wealth: 73023676093385834496.000000
+Average Relative Consumptions: 0.414320
+Average Mean Wealth: 73023676093385824.000000
+Average Median Wealth: 57992.057234
+
+
+Mean of exp salaries: 36142.759520
+Median of exp salaries: 21174.913273
+Standard deviation of exp salaries: 41994.015990
+Max of exp salaries: 413749.902489
+Min of exp salaries: 824.831087
+
+
+Percentiles: [1, 10, 25, 50, 75, 90, 95, 99, 99.9]
+Final wealth for each percentile: [np.float64(2817.846006953259), np.float64(9165.22552362249), np.float64(19473.106815592448), np.float64(53774.94592359502), np.float64(346175.94930693344), np.float64(105364594987010.58), np.float64(7153972797640734.0), np.float64(1.2618678556318318e+18), np.float64(1.1443380932218634e+20)]
+
+
+Final T_max: 0.033766
+Final T_esp: 0.081262
+Final T_scale: 0.010000
+
+
+Mean of T_max: 0.025770
+Median of T_max: 0.030243
+Standard deviation of T_max: 0.009781
+Max of T_max: 0.035151
+Min of T_max: 0.000000
+
+
+Mean of T_esp: 0.069162
+Median of T_esp: 0.076117
+Standard deviation of T_esp: 0.014416
+Max of T_esp: 0.083480
+Min of T_esp: 0.031926
+
+
+Mean of T_scale: 0.015171
+Median of T_scale: 0.010000
+Standard deviation of T_scale: 0.011430
+Max of T_scale: 0.048306
+Min of T_scale: 0.010000
+
+
+Mean of W_scale: 3543.629966
+Median of W_scale: 2992.973361
+Standard deviation of W_scale: 1565.593182
+Max of W_scale: 16147.115898
+Min of W_scale: 2382.698617
+
+
+Mean of final average relative perc_consumptions: 0.414320
+Median of final average relative perc_consumptions: 0.418551
+Standard deviation of final average relative perc_consumptions: 0.014942
+Max of final average relative perc_consumptions: 0.422823
+Min of final average relative perc_consumptions: 0.293613
+
+
+Mean of final wealth: 816516140586056064.000000
+Median of final wealth: 53774.945924
+Standard deviation of final wealth: 14397001677125627904.000000
+Max of final wealth: 413531159621331386368.000000
+Min of final wealth: 1311.203866
+
+
+Mean of final tax_rate_perc: 0.024020
+Median of final tax_rate_perc: 0.020115
+Standard deviation of final tax_rate_perc: 0.006418
+Max of final tax_rate_perc: 0.032318
+Min of final tax_rate_perc: 0.016883
+
+
+Mean of final perc_consumptions: 0.313104
+Median of final perc_consumptions: 0.238561
+Standard deviation of final perc_consumptions: 0.311101
+Max of final perc_consumptions: 0.745174
+Min of final perc_consumptions: 0.000000
+
+
